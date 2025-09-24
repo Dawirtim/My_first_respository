@@ -1,2 +1,2 @@
 # My_first_respository
-Just to learn
+Just to learn some git
