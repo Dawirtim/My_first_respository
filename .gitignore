@@ -5,3 +5,7 @@
 /.vs/My_first_respository/FileContentIndex
 /.vs/My_first_respository/v17/.wsuo
 /.vs/slnx.sqlite
+/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.pdb
+/ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
+/ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
+*.pdb
