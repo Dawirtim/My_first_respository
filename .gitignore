@@ -9,3 +9,5 @@
 /ConsoleApp1/obj/Debug/net7.0/ConsoleApp1.dll
 /ConsoleApp1/bin/Debug/net7.0/ConsoleApp1.dll
 *.pdb
+/ConsoleApp1/obj/Release/net7.0/ConsoleApp1.assets.cache
+/ConsoleApp1/obj/Release/net7.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
