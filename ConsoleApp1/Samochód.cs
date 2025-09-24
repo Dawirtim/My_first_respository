@@ -14,7 +14,7 @@
         }
         public void Opis()
         {
-            Console.WriteLine($"Kolor: {kolor}, Marka: {marka}, Pojemność silnika {pojemnoscSilnika} cm^3, Ilosc drzwi: {iloscDrzwi}");
+            Console.WriteLine($"Kolor: {kolor}, Marka: {marka}, Model: {model}, Pojemność silnika {pojemnoscSilnika} cm^3, Ilosc drzwi: {iloscDrzwi}");
         }
     }
 }

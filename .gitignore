@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/My_first_respository/FileContentIndex
+/.vs/My_first_respository/v17/.wsuo
+/.vs/slnx.sqlite
