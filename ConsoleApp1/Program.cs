@@ -9,6 +9,8 @@ internal class Program
         skodaSuperb.Opis();
         Samochod fordmondeo = new Samochod("Dark Blue", "Ford", "Mondeo", 2164, 4);
         fordmondeo.Opis();
+        Samochod renaulttalisman = new Samochod("Black", "Renault", "Talisman", 1982, 4);
+        renaulttalisman.Opis();
         Console.ReadKey();
     }
 }
