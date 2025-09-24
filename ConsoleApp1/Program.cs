@@ -8,6 +8,8 @@ internal class Program
         mercedesc180cdiw204.Opis();
         Samochod skodaSuperb = new Samochod("Dark Green", "Skoda", "Superb", 1996, 4);
         skodaSuperb.Opis();
+        Samochod fordmondeo = new Samochod("Dark Blue", "Ford", "Mondeo", 2164, 4);
+        fordmondeo.Opis();
         Console.ReadKey();
     }
 }
