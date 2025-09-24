@@ -21,3 +21,10 @@ C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My
 C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
 C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
 C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
