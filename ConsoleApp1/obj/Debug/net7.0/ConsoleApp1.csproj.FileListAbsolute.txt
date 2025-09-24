@@ -13,3 +13,11 @@ C:\Users\dawid.mieczkowski\Source\Repos\Dawirtim\My_first_respository\ConsoleApp
 C:\Users\dawid.mieczkowski\Source\Repos\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
 C:\Users\dawid.mieczkowski\Source\Repos\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\dawid.mieczkowski\Source\Repos\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+C:\Users\dawid.mieczkowski\OneDrive - PLUM SP. Z O.O\Pulpit\Projekty\Dawirtim\My_first_respository\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb

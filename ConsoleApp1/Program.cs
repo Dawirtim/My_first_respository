@@ -1,5 +1,4 @@
 ﻿namespace respository;
-using system.data.SqlClient;
 internal class Program
 {
     private static void Main(string[] args)
